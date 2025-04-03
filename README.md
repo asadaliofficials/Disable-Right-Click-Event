@@ -3,7 +3,7 @@
 ### <pre> Give a Star Please...⭐⭐⭐</pre>
 
  - Live Preview: ➡️ [Click to Open](https://asadaliofficials.github.io/Disable-Right-Click-Event/)
-<a href="https://www.youtube.com/@asadali_officials/videos" target="_blank">Youtube Tutorial: ➡️ Click to Open</a>
+ - Youtube Tutorial: ➡️ [Click to Open](https://www.youtube.com/@asadali_officials/videos)
 
 
 ## Screenshots of this Project
