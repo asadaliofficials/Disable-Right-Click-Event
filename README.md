@@ -2,10 +2,9 @@
 
 ### <pre> Give a Star Please...⭐⭐⭐</pre>
 
-<!-- - Live Preview: ➡️ [Click to Open](https://asadaliofficials.github.io/Responsive-Age-Calculator/) -->
-<!-- - Youtube Tutorial: ➡️ [Click to Open](https://www.youtube.com/@asadali_officials/videos) -->
+ - Live Preview: ➡️ [Click to Open](https://asadaliofficials.github.io/Disable-Right-Click-Event/)
+ - Youtube Tutorial: ➡️ [Click to Open](https://www.youtube.com/@asadali_officials/videos) 
 
-comments
 
 ## Screenshots of this Project
 
