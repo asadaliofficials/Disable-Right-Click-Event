@@ -19,7 +19,6 @@ subscribing to our newsletter:
 - Email: [ message.asadali@gmail.com ]
 - YouTube: [Asad Ali Officials](https://www.youtube.com/@asadali_officials)
 - Website: [Asad Ali Codes](https://asadalicodes.blogspot.com/)
-- GitHub: [Asad Ali Officials](https://github.com/asadaliofficials)
 - Instagram: [Asad Ali Officials](https://www.instagram.com/asadaliofficials)
 
 Don't forget to Like us when sharing your experiences on social media!
